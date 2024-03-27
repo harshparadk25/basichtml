@@ -1,0 +1,36 @@
+html{
+    font-size:22px
+}
+body{
+    background-color:black;
+    color:rgb(255, 255, 255);
+}
+a{
+    color:rgb(56, 10, 223);
+}
+a:visited{
+    color:rgb(240, 240, 9);
+}
+a:hover,a:active{
+    color:#15d86d;
+}
+mark{
+    background-color: rgb(0, 255, 64);
+    color:rgb(9, 11, 11)
+}
+table ,tr ,th ,td ,caption{
+    border: 4px solid rgb(5, 4, 4);
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse:collapse;
+    padding: 0.5rem;
+    color: black;
+}
+article{
+    background-color: aqua;
+}
+h2{
+    color: black;
+}
+figcaption{
+    color: blue;
+}
